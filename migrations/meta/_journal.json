@@ -8,6 +8,20 @@
       "when": 1738036924523,
       "tag": "0000_tiny_skrulls",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1738639940152,
+      "tag": "0001_warm_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1738654232078,
+      "tag": "0002_hot_marauders",
+      "breakpoints": true
     }
   ]
 }
